@@ -7,18 +7,6 @@
     <img alt="Python version" src="https://img.shields.io/badge/Python-3.8.10-blue">
   </a>
 
-  <a href="https://github.com/eac-ufsm/augen/commits/master" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/eac-ufsm/fia2022-augen" alt="GitHub last commit">
-  </a>
-
-  <a href="https://github.com/eac-ufsm/augen/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/eac-ufsm/fia2022-augen&color=red" alt="GitHub issues">
-  </a>
-
-  <a href="https://github.com/eac-ufsm/augen/blob/master/LICENSE" target="_blank">
-    <img alt="LICENSE" src="https://img.shields.io/github/license/eac-ufsm/fia2022-augen&color=yellow">
-  </a>
-
   <a href="https://github.com/psf/black" target="_blank">
     <img alt="code style" src="https://img.shields.io/badge/code style-black-black">
   </a>
